@@ -7,7 +7,7 @@ from typing import Set
 from bs4 import BeautifulSoup
 from textblob import TextBlob
 
-from common import filename_to_article_name, visit_files_in_dir
+from common import article_name_to_file_name, filename_to_article_name, visit_files_in_dir
 
 
 index = dict()
@@ -36,10 +36,9 @@ def main():
         file_exclude=lambda fname: fname[-5:] != ".html"
     )
 
-    @visit_files_in_dir("./__dist__", **rules)
-    def filename_lookup(_, filename, count=[0]):
-        files[filename] = count[0]
-        count[0] += 1
+    with open(Path("__dist__") / "articles.json", "r") as fin:
+        for i, article_fp in enumerate(map(article_name_to_file_name, json.load(fin))):
+            files[article_fp] = i
 
     @visit_files_in_dir("./__dist__", **rules)
     def _(dirname, filename):
