@@ -55,8 +55,6 @@ def transform_file(in_file, out_file):
     with open(in_file, "r") as fin:
         md = fin.read()
 
-    print(f"{md=} {in_file=}")
-
     article_title = filename_to_article_name(in_file)
 
     with open(out_file, "w+") as fout:
