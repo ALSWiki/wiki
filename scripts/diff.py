@@ -8,9 +8,7 @@ def extract_diff_file(diff_line: str) -> str:
 
 
 def get_changed_files():
-    lines = check_output(["git", "diff", "HEAD~1", "HEAD~2"])\
-        .decode()\
-        .split("\n")
+    lines = check_output(["git", "diff", "HEAD~1", "HEAD~2"]).decode().split("\n")
     diff_lines = filter(lambda line: line.startswith("diff --git"), lines)
     return [*map(extract_diff_file, diff_lines)]
 

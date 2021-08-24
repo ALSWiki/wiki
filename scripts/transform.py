@@ -3,13 +3,12 @@ import os
 import shutil
 import sys
 from contextlib import suppress
-from pathlib import Path
 from operator import attrgetter
+from pathlib import Path
 
 from bs4 import BeautifulSoup
-from markdown import markdown
-
 from common import filename_to_article_name, visit_files_in_dir
+from markdown import markdown
 
 
 def center_images(html: str):
@@ -58,7 +57,7 @@ def transform_file(in_file, out_file):
     article_title = filename_to_article_name(in_file)
 
     with open(out_file, "w+") as fout:
-        print(transform_markdown(md, article_title), file=fout)
+        print(res := transform_markdown(md, article_title), file=fout)
 
 
 def is_markdown(fp):
@@ -77,7 +76,7 @@ def main():
 
     rules = dict(
         dir_exclude=lambda dir_: dir_[:3] == "./." or dir_[:10] == "./__dist__",
-        file_exclude=lambda fname: not is_markdown(fname)
+        file_exclude=lambda fname: not is_markdown(fname),
     )
 
     @visit_files_in_dir(".", **rules)
