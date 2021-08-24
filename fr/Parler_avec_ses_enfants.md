@@ -1,12 +1,12 @@
-EN version:
-A parent being diagnosed with ALS is difficult for the entire family. It is important that
-you are open and honest about the ALS diagnosis to your children as early as possible.
-Use age appropriate words and explanations when talking about the realities of ALS
-and be open to answering questions at any time. Children are usually willing caregivers
-to a parent with ALS and, as the disease progresses, the new and special relationship
-between parent and child built through caregiving will be of great importance to both
-parties.
+Quand un parent qui est diagnostiqué avec SLA, il est difficile pour la famille entière.
+Il est important qu'on soit ouvert et honnête sur le diagnostic le plus tôt possible.
+Utilisez des mots adaptés à leur âge quand vous parlez des réalités de SLA, et soyez 
+ouvert à répondre à leurs questions à tout moment. Les enfants sont généralement prêt à 
+fournir de soins à un parent qui est atteint de SLA, et lorsque la maladie progresse, 
+la relation nouveau et spécial entre le parent et l'enfant établie en fournissant
+de soins sera de grande importance pour les deux parties.
 
+Quelques Ressources (en anglais)
 The ALS Association published this detailed guide to talking to children about ALS:
 https://graphics.jsonline.com/jsi_news/documents/caregivers_als.pdf
 
@@ -25,19 +25,3 @@ I also recommend these books:
 * “Walk Like Penguins” by Brandy Lay
 * "Your Ema Loves You" by Eloise Lovelace
 
-FR version:
-Quand un parent qui est diagnostiqué avec SLA, il est difficile pour la famille entière.
-Il est important qu'on soit ouvert et honnête sur le diagnostic le plus tôt possible.
-Utilisez des mots appropriés à leur âge. (revise previous sentence if necessary)
-
-Words to look up:
-diagnose
-ALS
-- sclérose latérale amyotrophique (SLA)
-diagnosis
-- diagnostic
-age appropriate
-- convenable
-caregiver
-caregiving
-great importance
