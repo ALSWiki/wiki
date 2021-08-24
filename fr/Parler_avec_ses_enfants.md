@@ -6,22 +6,26 @@ fournir de soins à un parent qui est atteint de SLA, et lorsque la maladie prog
 la relation nouvelle et spéciale entre le parent et l'enfant établie en fournissant
 de soins sera de grande importance pour les deux parties.
 
-Quelques Ressources (en anglais)
-The ALS Association published this detailed guide to talking to children about ALS:
+Quelques Ressources (en Anglais)
+
+L'ALS Association a publié ce guide detaillé pour parler aux enfants de SLA
 https://graphics.jsonline.com/jsi_news/documents/caregivers_als.pdf
 
-I wrote a blog post about telling my son I had ALS that many people find helpful:
+Un article de blog au sujet de dire à mon fils que j'avais sclérose en plaque que de nombreuses personnes trouvent utile:
 https://glupavomomiche.wordpress.com/2012/03/10/the-three-letters/
 
-Hope Loves Company is a wonderful organization started by
-Jodi O-Donnell-Ames for children of parents affected by ALS. HLC
-offers books, care packages, camps, support, and so much more!
+<<Hope Loves Company>> est un merveilleux organisation fondée par Jodi O-Donnell-Ames
+pour les enfants de parents touchées par SLA. Cette organisation offre des livres, colis,
+du soutien, et bien plus encore.
+
+Notez que cette organisation est basée aux Etats-Unis
 https://www.hopelovescompany.org/
 
-I also recommend these books:
-* “What Did You Learn Today?” by Tina Singer-Ames
-* “The Stars That Shine” by Jodi O'Donnell-Ames
-* “My Dad Has ALS?” by Rachel and Jennifer Silverman
-* “Walk Like Penguins” by Brandy Lay
-* "Your Ema Loves You" by Eloise Lovelace
+
+Je recommande ces livres (en Anglais)
+* “What Did You Learn Today?” par Tina Singer-Ames
+* “The Stars That Shine” par Jodi O'Donnell-Ames
+* “My Dad Has ALS?” par Rachel et Jennifer Silverman
+* “Walk Like Penguins” par Brety Lay
+* "Your Ema Loves You" par Eloise Lovelace
 
