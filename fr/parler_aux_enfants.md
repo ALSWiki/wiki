@@ -1,10 +1,10 @@
-Quand un parent qui est diagnostiqué avec SLA, il est difficile pour la famille entière.
+Quand un parent est diagnostiqué avec SLA, il est difficile pour la famille entière.
 Il est important qu'on soit ouvert et honnête sur le diagnostic le plus tôt possible.
 Utilisez des mots adaptés à leur âge quand vous parlez des réalités de SLA, et soyez 
 ouvert à répondre à leurs questions à tout moment. Les enfants sont généralement prêt à 
 fournir de soins à un parent qui est atteint de SLA, et lorsque la maladie progresse, 
 la relation nouvelle et spéciale entre le parent et l'enfant établie en fournissant
-de soins sera de grande importance pour les deux parties.
+de soins sera de grande importance pour les deux partis.
 
 Quelques Ressources (en Anglais)
 
