@@ -3,7 +3,6 @@ research that has been done cites “abnormalities of collagen, glycosaminoglyca
 vascular endotherial growth factor (VEGF) and neurotrophic factors like ciliary
 neurotrophic factor (CNTF), neurotrophin-3 (NT-3) and insulin-like growth factor-1 (IGF-
 1)” as causes of these changes. Many PALS experience extreme dry skin and
-
 excessive sloughing of dead skin cells that is itchy and uncomfortable.
 General tips to help combat these skin problems:
 - Do NOT shower or bathe in hot water. Use slightly warm water.
