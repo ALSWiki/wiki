@@ -14,7 +14,7 @@ https://graphics.jsonline.com/jsi_news/documents/caregivers_als.pdf
 Un article de blog au sujet de dire à mon fils que j'avais sclérose en plaque que de nombreuses personnes trouvent utile:
 https://glupavomomiche.wordpress.com/2012/03/10/the-three-letters/
 
-<<Hope Loves Company>> est un merveilleux organisation fondée par Jodi O-Donnell-Ames
+\<\<Hope Loves Company\>\> est un merveilleux organisation fondée par Jodi O-Donnell-Ames
 pour les enfants de parents touchées par SLA. Cette organisation offre des livres, colis,
 du soutien, et bien plus encore.
 
