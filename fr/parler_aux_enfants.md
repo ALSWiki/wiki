@@ -6,7 +6,7 @@ Utilisez des mots adaptés à leur âge quand vous parlez des réalités de SLA,
 ouvert à répondre à leurs questions à tout moment. Les enfants sont généralement prêt à fournir de soins à un parent qui est atteint de SLA, et lorsque la maladie progresse, la nouvelle relation spéciale entre le parent et l'enfant établie en fournissant
 de soins sera de grande importance pour les deux partis.
 
-Quelques Ressources (en Anglais)
+## Quelques Ressources (en Anglais)
 
 L'ALS Association a publié ce guide detaillé pour parler aux enfants de SLA
 
@@ -16,7 +16,7 @@ Un article de blog au sujet de dire à mon fils que j'avais sclérose en plaque 
 
 Voici le [lien](https://glupavomomiche.wordpress.com/2012/03/10/the-three-letters/)
 
-## Hope Loves Company
+### Hope Loves Company
 
 \<\<Hope Loves Company\>\> est un merveilleux organisation fondée par Jodi O-Donnell-Ames
 pour les enfants de parents touchées par SLA. Cette organisation offre des livres, colis,
