@@ -16,100 +16,72 @@
 
 family)
 
-CNS = central nervous system
+*  CNS = central nervous system
 
-UMN = Upper Motor Neurons - neurons originating from the motor cortex of the brain
-
+*  UMN = Upper Motor Neurons - neurons originating from the motor cortex of the brain
 and running through the spinal cord
 
-LMN = Lower Motor Neurons - neurons that connect the spinal cord to muscle fibers,
-
+*  LMN = Lower Motor Neurons - neurons that connect the spinal cord to muscle fibers,
 transmitting the nerve impulses from the upper motor neurons out to the muscles
 
-NMJ = NeuroMuscular Junction - connections between the motor nerves and skeletal
-
+*  NMJ = NeuroMuscular Junction - connections between the motor nerves and skeletal
 muscles
 
-NCV = Nerve Conduction Study - test where electrodes are placed on the skin over a
-
+*  NCV = Nerve Conduction Study - test where electrodes are placed on the skin over a
 nerve to stimulate the nerve and record the result; can help detect the presence of
-
 nerve damage or destruction
 
-EMG = ElectroMyoGraphy - a test to measure the electrical activity of a muscle; a
-
+*  EMG = Electromyography - a test to measure the electrical activity of a muscle; a
 needle is inserted into the muscle, which acts as a microphone to amplify the sound
-
 made by the muscle when it is contracted or relaxed; sounds (and their visual
-
 representation on an oscilloscope) are interpreted by a neurologist to learn about the
-
 health of muscles and nerves; specific findings on this test are required for ALS
-
 diagnosis
 
-LP = Lumbar Puncture, aka "spinal tap" – a needle is inserted into the space between
-
+*  LP = Lumbar Puncture, aka "spinal tap" – a needle is inserted into the space between
 two lumbar vertebrae to collect CSF for diagnostic testing; CSF pressure measurements
-
 taken during the test are also of diagnostic value
 
-CSF = cerebrospinal fluid – surrounds the brain and spinal column; obtained during a
-
+*  CSF = cerebrospinal fluid – surrounds the brain and spinal column; obtained during a
 lumbar puncture and studied for abnormalities to diagnose various neurological
-
 conditions
 
-FTD = FrontoTemporal Dementia - caused by atrophy of the frontal and temporal lobes
-
+*  FTD = FrontoTemporal Dementia - caused by atrophy of the frontal and temporal lobes
 of the brain; affects critical thinking, language/speech, and behavioral regions of the
-
 brain; has been linked with some subtypes of ALS (called ALS FTD)
 
-PBA = PseudoBulbar Affect - Uncontrollable laughing or crying due to damage to the
-
+*  PBA = PseudoBulbar Affect - Uncontrollable laughing or crying due to damage to the
 emotion control regions of the brain; seen in 20-50% of PALS
 
-CNS-LS = Center for Neurologic Study – Liability Scale - a short questionnaire,
-
+*  CNS-LS = Center for Neurologic Study – Liability Scale - a short questionnaire,
 designed to be completed by the patient, that provides a quantitative measure of the
-
 perceived frequency of PBA episodes
 
-ALSFRS(R) = Amyotrophic Lateral Sclerosis Functional Rating Scale (Revised) – an
-
+*  ALSFRS(R) = Amyotrophic Lateral Sclerosis Functional Rating Scale (Revised) – an
 instrument (questionnaire) for evaluating the functional status of patients with ALS and
-
 monitoring functional change over time.
 
-SOD1 = Superoxide dismutase 1 - an enzyme that destroys superoxide, a highly
-
+*  SOD1 = Superoxide dismutase 1 - an enzyme that destroys superoxide, a highly
 reactive form of oxygen; the SOD1 gene is responsible for over 20% of fALS cases
 
-Dx = diagnosis
+*  Dx = diagnosis
 
-Ventilator (aka mechanical ventilation) – a machine that breathes for a person by
-
+*  Ventilator (aka mechanical ventilation) – a machine that breathes for a person by
 moving air in and out of the lungs
 
-NIV or NonInvasive Ventilation – use of a breathing machine/ventilator with a face
-
+*  NIV or NonInvasive Ventilation – use of a breathing machine/ventilator with a face
 mask interface
 
-IV or Invasive Ventilation - use of a ventilator through a tracheotomy
+*  IV or Invasive Ventilation - use of a ventilator through a tracheotomy
 
-Trach = tracheotomy - while actually the name of the surgical procedure of making a
-
+*  Trach = tracheotomy - while actually the name of the surgical procedure of making a
 hole in the throat to access the trachea, most pALS call their surgical hole a "trach" or
-
 “trache”
 
-Stoma - actual name for the hole in the throat created during a tracheotomy
+*  Stoma - actual name for the hole in the throat created during a tracheotomy
 
-Trach Tube = tracheotomy tube - plastic tube inserted through a tracheotomy that
-
+*  Trach Tube = tracheotomy tube - plastic tube inserted through a tracheotomy that
 allows the person to breathe without using the nose or mouth, used to connect a
-
 tracheotomy to a ventilator
 
 FVC = Forced Vital Capacity - a measure of the total volume of air that can be exhaled
@@ -204,10 +176,13 @@ talking about one person or multiple people, the acronyms are ALWAYS “PALS” 
 
 “CALS.”
 
+## See also
+
+
 ## References
 
 Roscenzwig, Sarah. https://drive.google.com/file/d/1N-wmywUgTTyDtEYgPNGYyObo_lZStBAM/view?fbclid=IwAR3qjY6Ccn3e6Ia47Eht_3UFg6CVFF-6RHIWfmKvq45qgqeqnvdEAgPoDVo
 
-## See also
+
 
 
