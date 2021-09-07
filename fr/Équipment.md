@@ -11,5 +11,5 @@ l'avance et faire face aux changements qui viennent, on sera hereux d'avoir l'é
   (Might require revisions)
 
 * Marcheur/Déambulateur
-  * L'assurance couvre un déambulateur, ou on peut payer hors de la poche 
+  * L'assurance couvre un déambulateur, ou on peut payer hors de la poche
   * Les cannes et les marcheurs sont disponibles gratuitement par l'Association de SLA et par le \<\<Loan Closet>> l'Association de Dystrophie Musculaire
