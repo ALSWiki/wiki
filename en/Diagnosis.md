@@ -1,6 +1,6 @@
 Diagnosing ALS
 
-Diagnosing ALS is a very long and complicated process because ALS is a “diagnosis of exclusion.” There is not any one test that can determine someone has ALS. 
+Diagnosing ALS is a very long and complicated process because [ALS](https://alswiki.github.io/wiki/en/Getting_Started.html) is a “diagnosis of exclusion.” There is not any one test that can determine someone has ALS. 
 Therefore, several criteria must be met to arrive at a diagnosis of ALS. First, all other potential causes of the patient’s symptoms must be ruled out through extensive diagnostic testing. There are many diseases with symptoms similar to ALS
 and there are several diseases that are known ALS-mimic diseases that must be
 carefully considered and tested to exclude them from the differential diagnosis (a list of
