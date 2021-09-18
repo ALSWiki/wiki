@@ -11,15 +11,22 @@ from common import filename_to_article_name, visit_files_in_dir
 from markdown import markdown
 
 
-def center_images(html: str):
+def center_images(html: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
     for p in map(attrgetter("parent"), soup.select("p > img")):
         p["align"] = "center"
     return str(soup)
 
 
+def remove_tag(html: str, tag: str) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+    for el in soup.select(tag):
+        el.replace_with("")
+    return str(soup)
+
+
 def transform_markdown(md, article_title):
-    article = center_images(markdown(md, extensions=["extra"]))
+    article = remove_tag(center_images(markdown(md, extensions=["extra"])), "h1")
     return f"""
 <!DOCTYPE html>
 <html>
@@ -44,6 +51,7 @@ def transform_markdown(md, article_title):
                 </div>
             </div>
             <div class="article">
+                <h1>{article_title}</h1>
                 {article}
             </div>
         <main>
