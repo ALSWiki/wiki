@@ -7,7 +7,7 @@ from operator import attrgetter
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from common import filename_to_article_name, visit_files_in_dir
+from common import article_name_to_file_name, filename_to_article_name, visit_files_in_dir
 from markdown import markdown
 
 
@@ -25,8 +25,14 @@ def remove_tag(html: str, tag: str) -> str:
     return str(soup)
 
 
+def get_edit_link(article_title: str) -> str:
+    article_param = Path(article_name_to_file_name(article_title)).stem
+    return f"../../edit?article={article_param}"
+
+
 def transform_markdown(md, article_title):
     article = remove_tag(center_images(markdown(md, extensions=["extra"])), "h1")
+    edit_link = get_edit_link(article_title)
     return f"""
 <!DOCTYPE html>
 <html>
@@ -45,6 +51,9 @@ def transform_markdown(md, article_title):
                     <button onClick="loadTranslationButton()">
                         Load Google Translate
                     </button>
+                </div>
+                <div class="edit-container">
+                    <a href="{edit_link}"><button>Edit</button></a>
                 </div>
                 <div class="article-search">
                     <input type="text" placeholder="Search ALSWiki" />
