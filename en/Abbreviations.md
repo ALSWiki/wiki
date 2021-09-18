@@ -1,5 +1,3 @@
-## Commonly used abbreviations and acronyms
-
 *  ALS = Amyotrophic Lateral Sclerosis 
 
 *  ELA = esclerosis lateral amiotrófica (ALS in Spanish)
