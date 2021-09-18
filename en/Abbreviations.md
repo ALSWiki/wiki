@@ -12,9 +12,7 @@
 
 *  VALS/vALS = veteran(s) with ALS
 
-*  fALS = familial ALS (NOT "familiar"), a way of saying hereditary ALS (runs in the
-
-family)
+*  fALS = familial ALS (NOT "familiar"), a way of saying hereditary ALS (runs in the family)
 
 *  CNS = central nervous system
 
@@ -84,96 +82,67 @@ hole in the throat to access the trachea, most pALS call their surgical hole a "
 allows the person to breathe without using the nose or mouth, used to connect a
 tracheotomy to a ventilator
 
-FVC = Forced Vital Capacity - a measure of the total volume of air that can be exhaled
-
+*  FVC = Forced Vital Capacity - a measure of the total volume of air that can be exhaled
 after a deep inhalation; important information for determining lung function in ALS
 
-CPAP = Continuous Positive Airway Pressure – NIV breathing machine that provides
-
+*  CPAP = Continuous Positive Airway Pressure – NIV breathing machine that provides
 single pressure breathing support to keep the airway open; should NEVER be used in
-
 ALS! In PALS, CPAP use weakens the diaphragm by requiring the patient’s body to use
-
 extra work/force to exhale over the continuous flow of pressurized air, and can cause
-
 CO2 retention.
 
-BiPAP = BiLevel Positive Airway Pressure – NIV breathing machine that provides two
-
+*  BiPAP = BiLevel Positive Airway Pressure – NIV breathing machine that provides two
 levels of pressure to assist breathing (inspiratory and expiratory pressures)
 
-AVAPS = Average Volume Assured Pressure Support - a setting on certain BiPAPs and
-
+*  AVAPS = Average Volume Assured Pressure Support - a setting on certain BiPAPs and
 ventilators that is beneficial and preferred in ALS
 
-Trilogy (made by Philips Respironics) and
-
+*  Trilogy (made by Philips Respironics) and
 Astral (made by ResMed) - a versatile ventilator with many settings that can be used
-
 with invasive and noninvasive adapters (face mask or tracheotomy)
-
 VOCSN (made by Ventec Life Systems) – 5 machines in one: multifunction ventilator,
-
 cough assist, suction machine, nebulizer, and oxygen generator; especially beneficial
-
 for PALS who travel outside the home frequently
 
-CO2 = Carbon Dioxide
+*  CO2 = Carbon Dioxide
 
-O2 = Oxygen
+*  O2 = Oxygen
 
-O2 Sat or SpO2 (Oxygen Saturation) – measurement of the amount of oxygen in a
-
+*  O2 Sat or SpO2 (Oxygen Saturation) – measurement of the amount of oxygen in a
 patient’s blood
 
-Pulse Oximeter (Pulse Ox) - noninvasive infrared light device that estimates the
-
+*  Pulse Oximeter (Pulse Ox) - noninvasive infrared light device that estimates the
 amount of oxygen in your blood; usually placed on finger or toe
 
-ABG (Arterial Blood Gas) – blood test drawn from an artery (instead of a vein) to
-
+*  ABG (Arterial Blood Gas) – blood test drawn from an artery (instead of a vein) to
 measure the amount of O2, CO2, and other gases are in the blood (only way to test
-
 CO2 levels)
 
-
-
-PEG = Percutaneous endoscopic gastrostomy - a flexible feeding tube placed through
-
+*  PEG = Percutaneous endoscopic gastrostomy - a flexible feeding tube placed through
 the abdominal wall and into the stomach to allow nutrition, fluids and/or medications to
-
 be put directly into the stomach, bypassing the mouth
-
 Mic-Key or Button = type of PEG tube that does not leave a long tube dangling outside
-
 the body
 
-RT = Respiratory Therapist
+*  RT = Respiratory Therapist
 
-PT = Physical Therapist
+*  PT = Physical Therapist
 
-OT = Occupational Therapist
+*  OT = Occupational Therapist
 
-ROM = Range of Motion - the measurement of the amount of movement around a
-
+*  ROM = Range of Motion - the measurement of the amount of movement around a
 specific joint or body part; also refers to gentle movements/stretches to preserve range
-
 of motion in joints
 
-ALSA = ALS Association (USA)
+*  ALSA = ALS Association (USA)
 
-ALS TDI = ALS Therapy Development Institute (Boston, USA)
+*  ALS TDI = ALS Therapy Development Institute (Boston, USA)
 
-NOTE: The terms “PALS” and “CALS” are plural AND singular!!!
-
+*  NOTE: The terms “PALS” and “CALS” are plural AND singular!!!
 When you try to make it singular by saying “my PAL” or “my CAL,” all you are saying is
-
 “my Person with Amyotrophic Lateral” or “my Caregiver of Amyotrophic Lateral”.... the
-
 “S” for “Sclerosis” is essential for the acronym to make sense. So, whether you are
-
 talking about one person or multiple people, the acronyms are ALWAYS “PALS” and
-
 “CALS.”
 
 ## See also
