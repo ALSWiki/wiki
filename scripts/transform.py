@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import shutil
 import sys
 from contextlib import suppress
@@ -9,6 +10,13 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from common import article_name_to_file_name, filename_to_article_name, visit_files_in_dir
 from markdown import markdown
+
+
+YT_VID_URL = "https://www.youtube.com/watch?v="
+YT_VID_ID = re.compile(r"\?v\=(.+)$")
+YT_EMBED_IFRAME = """
+<iframe width="1200" height="650" src="https://www.youtube.com/embed/{}"></iframe>
+""".format
 
 
 def center_images(html: str) -> str:
@@ -25,13 +33,21 @@ def remove_tag(html: str, tag: str) -> str:
     return str(soup)
 
 
+def embed_yt_videos(html: str) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+    for el in soup.select(f'a[href^="{YT_VID_URL}"]'):
+        vid_id = re.search(YT_VID_ID, el["href"]).group(1)
+        el.replace_with(BeautifulSoup(YT_EMBED_IFRAME(vid_id), "html.parser"))
+    return str(soup)
+
+
 def get_edit_link(article_title: str) -> str:
     article_param = Path(article_name_to_file_name(article_title)).stem
     return f"../../edit?article={article_param}"
 
 
 def transform_markdown(md, article_title):
-    article = remove_tag(center_images(markdown(md, extensions=["extra"])), "h1")
+    article = remove_tag(embed_yt_videos(center_images(markdown(md, extensions=["extra"]))), "h1")
     edit_link = get_edit_link(article_title)
     return f"""
 <!DOCTYPE html>
