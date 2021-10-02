@@ -1,6 +1,6 @@
 ## What is ALS?
 
-ALS (amyotrophic lateral sclerosis) is a progressive, fatal neurodegenerative disease that kills [motor neurons](https://alswiki.github.io/wiki/en/Abbreviations.html), causing increasing paralysis and muscle degeneration.  
+ALS (amyotrophic lateral sclerosis) is a progressive neurodegenerative disease that kills motor neurons, causing gradual paralysis of a patient's body and muscle degeneration. While the prognosis
 
 ## Early Symptoms
 
