@@ -8,9 +8,12 @@ from operator import attrgetter
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from common import article_name_to_file_name, filename_to_article_name, visit_files_in_dir
+from common import (
+    article_name_to_file_name,
+    filename_to_article_name,
+    visit_files_in_dir,
+)
 from markdown import markdown
-
 
 YT_VID_URL = "https://www.youtube.com/watch?v="
 YT_VID_ID = re.compile(r"\?v\=(.+)$")
@@ -47,7 +50,9 @@ def get_edit_link(article_title: str) -> str:
 
 
 def transform_markdown(md, article_title):
-    article = remove_tag(embed_yt_videos(center_images(markdown(md, extensions=["extra"]))), "h1")
+    article = remove_tag(
+        embed_yt_videos(center_images(markdown(md, extensions=["extra"]))), "h1"
+    )
     edit_link = get_edit_link(article_title)
     return f"""
 <!DOCTYPE html>
