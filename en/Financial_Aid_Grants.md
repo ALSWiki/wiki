@@ -13,7 +13,7 @@ Non-government
 - [Joan Dancy and pALS Foundation](http://JoanDancyAndPALS.org): 
 - [Runs4ALS](https://runs4als.org/): 
 - https://alsrideforlife.org/
-- https://www.als.org/massachusetts/about-our-chapter/als-foundation-life-future-20-year-legacy
+- https://www.als.org/massachusetts/local-care-services/grants-assistance
 - https://hark-als.org/
 - https://projectmainst.org/
 
