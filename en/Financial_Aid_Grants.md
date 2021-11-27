@@ -23,6 +23,6 @@ https://www.healthwellfoundation.org/fund/amyotrophic-lateral-sclerosis/
 Les Turner Foundation: provides financial 
 https://lesturnerals.org/support-services/grant-programs-equipment-loans/
 
-
+Control F
 
 Donations: go directly to research labs rather than ALS organizations
