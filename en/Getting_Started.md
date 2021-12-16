@@ -4,7 +4,7 @@ ALS (amyotrophic lateral sclerosis) is a progressive, neuromuscular disease that
 
 ## Early Symptoms
 
-Early symptoms commonly include weakening of the muscles and muscle fasciculations (twitching). There are no defining symptoms of ALS, and a diagnosis is made by a neurologist after ruling out other possibilities.
+Early symptoms commonly include weakening of the muscles and muscle fasciculations (twitching). There are no defining symptoms of ALS, and a [diagnosis](https://alswiki.github.io/wiki/en/Diagnosis.html) is made by a neurologist after ruling out other possibilities.
 
 ## Outlook
 
