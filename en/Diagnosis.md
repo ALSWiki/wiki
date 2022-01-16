@@ -85,3 +85,9 @@ It is important to note that EMG results are dependent on the talent and interpr
 the doctor performing the test... which is also true of the physical exam. That is why
 second (and even third) opinions are common and a good idea when dealing with a
 catastrophic diagnosis like ALS.
+
+Other conditions that mimic ALS
+
+Many conditions might mimic ALS so it is important that you know for sure whether or not you have ALS. Covid is a virus that mimics many of the symptoms of ALS, getting a covid test is important to help rule out that condition. If symptoms continue after testing negative for covid then you might have ALS. Another condition that mimics ALS is lyme disease, getting a blood test can help rule that condition out. For additional information reference these articles:
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6137639/
+https://www.pulmonologyadvisor.com/home/decision-support-in-medicine/pulmonary-medicine/neuromuscular-disorders-affecting-the-thorax-amyotrophic-lateral-sclerosis/
