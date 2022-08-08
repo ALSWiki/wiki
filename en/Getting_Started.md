@@ -1,3 +1,8 @@
+# Welcome to ALSWiki
+"We're sorry you're here, but we're glad you found us" similar quote
+Short blurb that introduces this organization, not description of ALS
+Text below can be included into a short getting started summary of ALS
+
 ## What is ALS?
 
 ALS (amyotrophic lateral sclerosis) is a progressive, neuromuscular disease that attacks and kills motor neurons. When motor neurons die, the body loses control of its muscles, causing weakning, paralysis, and atrophy of the muscles over time. Currently, an estimated 30,000 people are living with ALS in the United States. ALS is relatively rare, occurring at an incidence of 1 in 50,000 people. Men are 1.5x more likely to get ALS than women. 
